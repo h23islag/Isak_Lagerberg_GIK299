@@ -1,0 +1,14 @@
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\bin\Debug\net6.0\Laboration1.exe
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\bin\Debug\net6.0\Laboration1.deps.json
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\bin\Debug\net6.0\Laboration1.runtimeconfig.json
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\bin\Debug\net6.0\Laboration1.dll
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\bin\Debug\net6.0\Laboration1.pdb
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\Laboration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\Laboration1.AssemblyInfoInputs.cache
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\Laboration1.AssemblyInfo.cs
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\Laboration1.csproj.CoreCompileInputs.cache
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\Laboration1.dll
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\refint\Laboration1.dll
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\Laboration1.pdb
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\Laboration1.genruntimeconfig.cache
+C:\Dokument\GIK299\Repositories\Isak_Lagerberg_GIK299\Laboration1\Laboration1\obj\Debug\net6.0\ref\Laboration1.dll
