@@ -1,0 +1,14 @@
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\Laboration_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\Laboration_4.AssemblyInfoInputs.cache
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\Laboration_4.AssemblyInfo.cs
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\Laboration_4.csproj.CoreCompileInputs.cache
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\bin\Debug\net6.0\Laboration_4.exe
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\bin\Debug\net6.0\Laboration_4.deps.json
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\bin\Debug\net6.0\Laboration_4.runtimeconfig.json
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\bin\Debug\net6.0\Laboration_4.dll
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\bin\Debug\net6.0\Laboration_4.pdb
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\Laboration_4.dll
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\refint\Laboration_4.dll
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\Laboration_4.pdb
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\Laboration_4.genruntimeconfig.cache
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Laboration_4\Laboration_4\obj\Debug\net6.0\ref\Laboration_4.dll
