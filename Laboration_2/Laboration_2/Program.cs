@@ -94,7 +94,7 @@ namespace Laboration_1
             {
                 ageSum = ageSum + familyDict[members[i]];
             }
-            Console.WriteLine("Den genomsnittliga ålder är: " + (ageSum / members.Count).ToString("0.00") + "år"); // Glömde bort ToString formatteringen...
+            Console.WriteLine("Den genomsnittliga ålder är: " + ((float)ageSum / members.Count).ToString("0.00") + "år"); // Glömde bort ToString formatteringen samt att värdena inte var floats utan ints.
         }
     }
 }
