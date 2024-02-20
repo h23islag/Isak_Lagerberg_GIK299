@@ -13,7 +13,6 @@ namespace Projektuppgift
         private int SECS = 1000;
         public User LoginMenu()
         {
-            Console.WriteLine(Path.Combine(Directory.GetCurrentDirectory(), "Users"));
             if (Directory.Exists(Path.Combine(Directory.GetCurrentDirectory(), "Users")))
             {
                 Typewriter.TypewriterEffect("Loading users...");

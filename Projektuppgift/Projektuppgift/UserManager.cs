@@ -21,7 +21,7 @@ namespace Projektuppgift
             string password = ValidatePassword(GetUserInput(passwordPrompt));
             string firstname = ValidateName(GetUserInput(firstnamePrompt));
             string lastname = ValidateName(GetUserInput(lastnamePrompt));
-            users.Add(new User(username, GenerateHashPassword(password), firstname, lastname));
+            users.Add(new User(username, password, firstname, lastname));
             Console.WriteLine();
             Typewriter.TypewriterEffect($"{username} med lösenordet {password} registrerad!");
             Console.WriteLine();
@@ -102,7 +102,7 @@ namespace Projektuppgift
 
         public User VerifyPassword(string username, string password)
         {
-            User user = users.FirstOrDefault(u => u.GetUsername() == username && u.PasswordMatch(password));
+            User user = users.FirstOrDefault(u => u.GetUsername() == username && u.CheckPassword(password));
             if (user == null)
             {
                 Console.WriteLine();
