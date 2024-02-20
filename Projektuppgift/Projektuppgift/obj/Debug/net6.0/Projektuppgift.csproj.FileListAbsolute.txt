@@ -1,0 +1,28 @@
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.exe
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.deps.json
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.runtimeconfig.json
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.dll
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.pdb
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.AssemblyInfoInputs.cache
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.AssemblyInfo.cs
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.csproj.CoreCompileInputs.cache
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.dll
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\refint\Projektuppgift.dll
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.pdb
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.genruntimeconfig.cache
+C:\Users\ilage\OneDrive - ltu.se\Documents\GIK299\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\ref\Projektuppgift.dll
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.exe
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.deps.json
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.runtimeconfig.json
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.dll
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\bin\Debug\net6.0\Projektuppgift.pdb
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.AssemblyInfoInputs.cache
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.AssemblyInfo.cs
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.csproj.CoreCompileInputs.cache
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.dll
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\refint\Projektuppgift.dll
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.pdb
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\Projektuppgift.genruntimeconfig.cache
+C:\Dokument\Projects\C#\Projektuppgift\Projektuppgift\obj\Debug\net6.0\ref\Projektuppgift.dll
