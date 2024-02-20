@@ -102,7 +102,7 @@ namespace Projektuppgift
 
         public User VerifyPassword(string username, string password)
         {
-            User user = users.FirstOrDefault(u => u.GetUsername() == username && u.CheckPassword(password));
+            User user = users.FirstOrDefault(u => u.GetUsername() == username && u.PasswordMatch(password));
             if (user == null)
             {
                 Console.WriteLine();
